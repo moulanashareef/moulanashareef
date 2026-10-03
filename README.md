@@ -504,17 +504,15 @@ alt="GitHub Streak"
 </div>
 
 ---
+ ## 🏆 GitHub Trophies
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=moulanashareef&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"
-alt="GitHub Trophies"
-/>
-
-</div>
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=moulanashareef&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"
+    alt="GitHub Trophies"
+    width="100%"
+  />
+</p>
 
 ---
 
