@@ -1,243 +1,295 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,75:2563eb,100:06b6d4&height=240&section=header&text=SHAIK%20MOULANA%20SHAREEF&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20B.Tech%20CSE%20Student&descAlignY=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0f172a,70:2563eb,100:06b6d4&height=240&section=header&text=SHAIK%20MOULANA%20SHAREEF&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20B.Tech%20CSE%20Student&descAlignY=60&descSize=18"/>
 
 # 👋 Hi, I'm Shaik Moulana Shareef
 
-### 💻 Full Stack Developer in Progress • 🧠 DSA Enthusiast • 🎓 B.Tech CSE Student
+### 💻 Full Stack Developer &nbsp; • &nbsp; 🧠 DSA Enthusiast &nbsp; • &nbsp; 🎓 B.Tech CSE Student
+
+### `BUILD • LEARN • SOLVE • SHIP`
 
 <p>
-  <b>BUILD • LEARN • SOLVE • SHIP</b>
+<i>Building useful applications, solving problems, and learning every day.</i>
 </p>
 
-<p>
-  <i>Building useful applications, solving problems, and learning every day.</i>
-</p>
-
-<br/>
+<br>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+
+<a href="https://github.com/moulanashareef">
+<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br/><br/>
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/PORTFOLIO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge"/>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=moulanashareef&label=PROFILE%20VIEWS&color=06b6d4&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+# 🧑‍💻 About Me
 
-I'm a Computer Science student focused on becoming a strong **Full Stack Developer** while continuously improving my **Data Structures & Algorithms** and problem-solving skills.
+<div align="center">
 
-I enjoy turning ideas into practical software products and exploring technologies across frontend development, backend engineering, databases, AI-powered applications, and real-time systems.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-### What I focus on
+### 🚀 Who I Am
 
-* 💻 Full Stack Web Development
-* 🧠 Data Structures & Algorithms
-* ⚛️ React & Next.js
-* 🟢 Node.js & Express.js
-* 🗄️ MongoDB & PostgreSQL
-* 🤖 AI-powered applications
-* 🌐 Open Source
-* 🏆 Hackathons
-* 🚀 Real-world software projects
-* 📚 Continuous learning
+I'm a B.Tech Computer Science student passionate about building modern software and solving real-world problems.
+
+I focus on:
+
+- 💻 Full Stack Development
+- 🧠 Data Structures & Algorithms
+- 🤖 AI-Powered Applications
+- 🌐 Modern Web Technologies
+- 🔐 Secure Software Development
+- 🚀 Real-World Projects
+- 🏆 Hackathons
+- 🤝 Open Source
+- 📚 Continuous Learning
+
+### 💡 My Philosophy
+
+> **"Turn ideas into real-world applications."**
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,html,css,react,nextjs,nodejs,express,mongodb,postgresql,git,github,vscode,figma,postman" />
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 # 🛠️ Technology Stack
 
+<div align="center">
+
 ### 💻 Programming Languages
 
-<p>
 <img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript"/>
-</p>
+
+<br><br>
 
 ### 🎨 Frontend
 
-<p>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
-</p>
+
+<br><br>
 
 ### ⚙️ Backend
 
-<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
 
-### 🗄️ Databases
+<br><br>
 
-<p>
+### 🗄️ Database
+
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql"/>
-</p>
 
-### 🧰 Tools & Technologies
+<br><br>
 
-<p>
+### 🧰 Tools
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
-</p>
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🎓 01 — Nawab Sonu
+<div align="center">
 
-> **AI-powered student platform for learning, careers, opportunities, and productivity.**
+<table>
+<tr>
 
-Nawab Sonu is a student-focused platform bringing multiple student needs together in one ecosystem.
+<td width="33%" valign="top">
 
-### Core Features
+<h3>🎓 Nawab Sonu</h3>
 
-* 🎓 Education & Skills
-* 💼 Jobs & Internships
-* 🧭 Career Direction
-* 🏆 Scholarships
-* 🚀 Projects & Practice
-* 📄 Resume & Interview Preparation
-* 🤖 AI Study Assistant
-* 📜 Certificates
-* 📅 Study Planner
-* 🔍 Research & Learning Resources
+<p><b>AI Student Platform</b></p>
 
-**Stack:** React.js • TypeScript • Node.js • PostgreSQL • AI APIs
+<p>
+Education, careers, internships, scholarships, projects, AI learning and productivity in one platform.
+</p>
 
-🔗 **Repository:** `YOUR_NAWAB_SONU_REPOSITORY_URL`
+<p>
 
----
+<img src="https://img.shields.io/badge/React-020617?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-020617?style=flat-square&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/Node.js-020617?style=flat-square&logo=node.js&logoColor=68A063"/>
 
-## 🛒 02 — E-Commerce Web Application
+</p>
 
-> **Full-stack shopping platform focused on product discovery and order management.**
+<a href="YOUR_NAWAB_SONU_REPOSITORY_URL">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### Core Features
+</td>
 
-* 🔍 Product Search
-* 🗂️ Category Filtering
-* 🛒 Shopping Cart
-* 🔢 Quantity Management
-* 👤 Authentication
-* 📦 Order Processing
-* 📜 Order History
-* ⚙️ Admin Product Management
-* 📱 Responsive Design
+<td width="33%" valign="top">
 
-**Stack:** HTML • CSS • JavaScript • Node.js • Express.js • MongoDB
+<h3>🛒 E-Commerce</h3>
 
-🔗 **Repository:** `YOUR_ECOMMERCE_REPOSITORY_URL`
+<p><b>Full Stack Shopping Platform</b></p>
 
----
+<p>
+Product discovery, search, cart, authentication, orders and admin management.
+</p>
 
-## 🧠 03 — DSA Practice Repository
+<p>
 
-> **A dedicated space for building strong problem-solving fundamentals.**
+<img src="https://img.shields.io/badge/JavaScript-020617?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Node.js-020617?style=flat-square&logo=node.js&logoColor=68A063"/>
+<img src="https://img.shields.io/badge/MongoDB-020617?style=flat-square&logo=mongodb&logoColor=47A248"/>
 
-### Topics
+</p>
 
-`Arrays` • `Strings` • `Linked Lists` • `Stacks` • `Queues`
+<a href="YOUR_ECOMMERCE_REPOSITORY_URL">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-`Trees` • `Graphs` • `Recursion` • `Sorting` • `Searching`
+</td>
 
-`Hashing` • `Dynamic Programming`
+<td width="33%" valign="top">
 
-**Languages:** C++ • Python
+<h3>🧠 DSA Practice</h3>
 
-🔗 **Repository:** `YOUR_DSA_REPOSITORY_URL`
+<p><b>Problem Solving Repository</b></p>
 
----
+<p>
+Data Structures and Algorithms practice using C++ and Python.
+</p>
 
-## 🌐 04 — Social Media Platform
+<p>
 
-> **Modern social networking application focused on communication and community.**
+<img src="https://img.shields.io/badge/C++-020617?style=flat-square&logo=cplusplus&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/Python-020617?style=flat-square&logo=python&logoColor=3776AB"/>
 
-### Core Features
+</p>
 
-* 👤 User Profiles
-* 📝 Posts
-* ❤️ Likes & Comments
-* 👥 Follow / Connections
-* 💬 Messaging
-* 🔔 Notifications
-* 🖼️ Media Sharing
-* 🔍 Search
-* 📰 Personalized Feed
+<a href="YOUR_DSA_REPOSITORY_URL">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-**Stack:** React.js • Node.js • Express.js • MongoDB • WebSockets
+</td>
 
-🔗 **Repository:** `YOUR_SOCIAL_MEDIA_REPOSITORY_URL`
+</tr>
 
----
+<tr>
 
-## 📋 05 — Project Management Tool
+<td width="33%" valign="top">
 
-> **Collaborative workspace for organizing projects, teams, tasks, and productivity.**
+<h3>🌐 Social Media Platform</h3>
 
-### Core Features
+<p>
+Modern social platform with profiles, posts, likes, comments, messaging and notifications.
+</p>
 
-* 📁 Project Creation
-* ✅ Task Management
-* 👥 Team Collaboration
-* 📅 Deadlines
-* 📊 Progress Tracking
-* 🔔 Notifications
-* 🏷️ Labels & Priorities
-* 📈 Productivity Dashboard
-* 🔐 Role-Based Access
+<a href="YOUR_SOCIAL_MEDIA_REPOSITORY_URL">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-**Stack:** React.js • Node.js • PostgreSQL • REST API
+</td>
 
-🔗 **Repository:** `YOUR_PROJECT_MANAGEMENT_REPOSITORY_URL`
+<td width="33%" valign="top">
 
----
+<h3>📋 Project Management</h3>
 
-## 💬 06 — Real-Time Communication App
+<p>
+Project, task, team, deadline and productivity management platform.
+</p>
 
-> **Real-time communication platform for private and group conversations.**
+<a href="YOUR_PROJECT_MANAGEMENT_REPOSITORY_URL">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### Core Features
+</td>
 
-* 💬 One-to-One Messaging
-* 👥 Group Chats
-* 🟢 Online / Offline Status
-* ⌨️ Typing Indicators
-* 🔔 Real-Time Notifications
-* 📎 File Sharing
-* 🖼️ Media Sharing
-* 🔐 Secure Authentication
-* ⚡ Real-Time Updates
+<td width="33%" valign="top">
 
-**Stack:** React.js • Node.js • Socket.IO • MongoDB
+<h3>💬 Real-Time Communication</h3>
 
-🔗 **Repository:** `YOUR_COMMUNICATION_APP_REPOSITORY_URL`
+<p>
+Real-time messaging, group chats, online status, typing indicators and notifications.
+</p>
+
+<a href="YOUR_COMMUNICATION_APP_REPOSITORY_URL">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
 # 🔮 Future Projects
 
-| #  | Project                                | Focus                              |
-| -- | -------------------------------------- | ---------------------------------- |
-| 07 | 🤖 AI Personal Assistant               | AI • Productivity • Planning       |
-| 08 | 🎓 AI Learning & Career Platform       | AI • Education • Career            |
-| 09 | 💰 Personal Finance Manager            | Finance • Analytics • AI           |
-| 10 | 🏥 Smart Health & Fitness Platform     | Fitness • Productivity • Analytics |
-| 11 | 💼 Developer Job & Internship Platform | Careers • AI Matching              |
-| 12 | 🌍 Community & Collaboration Platform  | Developers • Collaboration         |
+<div align="center">
+
+<table>
+
+<tr>
+<td width="50%">
+
+### 🤖 AI Personal Assistant
+
+AI-powered productivity, planning and personal organization.
+
+### 🎓 AI Learning & Career Platform
+
+Personalized learning paths, skill development and career discovery.
+
+### 💰 Personal Finance Manager
+
+Expense tracking, budgeting, savings and financial analytics.
+
+</td>
+
+<td width="50%">
+
+### 🏥 Smart Health & Fitness Platform
+
+Fitness goals, habits, activities and progress tracking.
+
+### 💼 Developer Job & Internship Platform
+
+Developer opportunities, applications and AI-powered matching.
+
+### 🌍 Community & Collaboration Platform
+
+A community for developers, projects, collaboration and knowledge sharing.
+
+</td>
+</tr>
+
+</table>
+
+</div>
 
 ---
 
@@ -245,17 +297,51 @@ Nawab Sonu is a student-focused platform bringing multiple student needs togethe
 
 <div align="center">
 
-| Topic               |                  Progress |
-| ------------------- | ------------------------: |
-| Arrays              | ████████████████████ 100% |
-| Strings             |  ██████████████████░░ 90% |
-| Linked Lists        |  ████████████████░░░░ 80% |
-| Stacks & Queues     |  ███████████████░░░░░ 75% |
-| Trees               |  ████████████░░░░░░░░ 60% |
-| Graphs              |  ██████████░░░░░░░░░░ 50% |
-| Dynamic Programming |  ████████░░░░░░░░░░░░ 40% |
+<table>
 
-### Consistency over perfection.
+<tr>
+<th>Topic</th>
+<th>Progress</th>
+</tr>
+
+<tr>
+<td>Arrays</td>
+<td>████████████████████ 100%</td>
+</tr>
+
+<tr>
+<td>Strings</td>
+<td>██████████████████░░ 90%</td>
+</tr>
+
+<tr>
+<td>Linked Lists</td>
+<td>████████████████░░░░ 80%</td>
+</tr>
+
+<tr>
+<td>Stacks & Queues</td>
+<td>███████████████░░░░░ 75%</td>
+</tr>
+
+<tr>
+<td>Trees</td>
+<td>████████████░░░░░░░░ 60%</td>
+</tr>
+
+<tr>
+<td>Graphs</td>
+<td>██████████░░░░░░░░░░ 50%</td>
+</tr>
+
+<tr>
+<td>Dynamic Programming</td>
+<td>████████░░░░░░░░░░░░ 40%</td>
+</tr>
+
+</table>
+
+### `Consistency over perfection.`
 
 </div>
 
@@ -263,17 +349,26 @@ Nawab Sonu is a student-focused platform bringing multiple student needs togethe
 
 # 📚 Currently Learning
 
-| Area           | Technologies / Topics                         |
-| -------------- | --------------------------------------------- |
-| 🎨 Frontend    | React • Next.js • Tailwind                    |
-| ⚙️ Backend     | Node.js • Express.js • REST APIs              |
-| 🗄️ Database   | MongoDB • PostgreSQL                          |
-| 💻 Programming | C++ • Python • JavaScript • TypeScript        |
-| 🧠 DSA         | Arrays • Trees • Graphs • Dynamic Programming |
-| 🔐 Security    | Authentication • Authorization • Web Security |
-| ⚡ Real-Time    | WebSockets • Socket.IO                        |
-| 🤖 AI          | AI APIs • AI-powered Applications             |
-| ☁️ Deployment  | Cloud • APIs • Deployment                     |
+<div align="center">
+
+<img src="https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-020617?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=node.js&logoColor=68A063"/>
+<img src="https://img.shields.io/badge/Express.js-020617?style=for-the-badge&logo=express&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/MongoDB-020617?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+<img src="https://img.shields.io/badge/PostgreSQL-020617?style=for-the-badge&logo=postgresql&logoColor=336791"/>
+<img src="https://img.shields.io/badge/WebSockets-020617?style=for-the-badge&logo=socket.io&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/AI-020617?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud-020617?style=for-the-badge&logo=icloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Security-020617?style=for-the-badge&logo=securityscorecard&logoColor=white"/>
+
+</div>
 
 ---
 
@@ -281,16 +376,47 @@ Nawab Sonu is a student-focused platform bringing multiple student needs togethe
 
 <div align="center">
 
-```text
+<table>
+
+<tr>
+<td width="50%">
+
 🚀 Become a Strong Full Stack Developer
+
+<br><br>
+
 🧠 Improve DSA & Problem Solving
+
+<br><br>
+
 💻 Build Real-World Applications
+
+<br><br>
+
 🌐 Contribute to Open Source
+
+</td>
+
+<td width="50%">
+
 🏆 Participate in Hackathons
+
+<br><br>
+
 🤝 Collaborate With Developers
+
+<br><br>
+
 ☁️ Learn Cloud & Deployment
+
+<br><br>
+
 🤖 Build AI-Powered Applications
-```
+
+</td>
+</tr>
+
+</table>
 
 </div>
 
@@ -300,24 +426,67 @@ Nawab Sonu is a student-focused platform bringing multiple student needs togethe
 
 <div align="center">
 
-🌐 **Web Applications**
-🤖 **AI-Powered Products**
-📱 **Real-Time Applications**
-🧠 **Problem-Solving Systems**
-🚀 **Developer Tools**
-📚 **Learning Platforms**
+<table>
+
+<tr>
+
+<td align="center">
+🌐
+<br>
+<b>Web Applications</b>
+</td>
+
+<td align="center">
+🤖
+<br>
+<b>AI Products</b>
+</td>
+
+<td align="center">
+📱
+<br>
+<b>Real-Time Apps</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+🧠
+<br>
+<b>Problem Solving</b>
+</td>
+
+<td align="center">
+🚀
+<br>
+<b>Developer Tools</b>
+</td>
+
+<td align="center">
+📚
+<br>
+<b>Learning Platforms</b>
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=020617&title_color=06b6d4&icon_color=2563eb&text_color=ffffff&count_private=true"/>
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=moulanashareef&show_icons=true&hide_border=true&bg_color=020617&title_color=06b6d4&icon_color=2563eb&text_color=ffffff&count_private=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=020617&title_color=06b6d4&text_color=ffffff"/>
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=moulanashareef&layout=compact&hide_border=true&bg_color=020617&title_color=06b6d4&text_color=ffffff"/>
 
 </div>
 
@@ -327,7 +496,10 @@ Nawab Sonu is a student-focused platform bringing multiple student needs togethe
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&background=020617&border=2563eb&stroke=2563eb&ring=06b6d4&fire=06b6d4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=06b6d4&sideLabels=ffffff&dates=94a3b8" alt="GitHub Streak"/>
+<img
+src="https://streak-stats.demolab.com?user=moulanashareef&background=020617&border=2563eb&stroke=2563eb&ring=06b6d4&fire=06b6d4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=06b6d4&sideLabels=ffffff&dates=94a3b8"
+alt="GitHub Streak"
+/>
 
 </div>
 
@@ -337,7 +509,10 @@ Nawab Sonu is a student-focused platform bringing multiple student needs togethe
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
+<img
+src="https://github-profile-trophy.vercel.app/?username=moulanashareef&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"
+alt="GitHub Trophies"
+/>
 
 </div>
 
@@ -347,7 +522,10 @@ Nawab Sonu is a student-focused platform bringing multiple student needs togethe
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=moulanashareef&bg_color=020617&color=06b6d4&line=2563eb&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=moulanashareef&bg_color=020617&color=06b6d4&line=2563eb&point=ffffff&area=true&hide_border=true"
+alt="GitHub Contribution Graph"
+/>
 
 </div>
 
@@ -355,50 +533,58 @@ Nawab Sonu is a student-focused platform bringing multiple student needs togethe
 
 # 💼 Open to Opportunities
 
-I'm open to opportunities where I can **learn, contribute, collaborate, and build meaningful real-world products.**
+<div align="center">
 
-### Interested in
+I'm open to opportunities where I can
+<b>learn, contribute, collaborate and build meaningful real-world products.</b>
 
-* 💼 Full Stack Development
-* 🧠 DSA & Problem Solving
-* 🌐 Web Development
-* 🤝 Open Source
-* 🏆 Hackathons
-* 💻 Internships
-* 🚀 Technical Collaborations
-* 🤖 AI Projects
+<br><br>
+
+<img src="https://img.shields.io/badge/FULL%20STACK-020617?style=for-the-badge&logoColor=06b6d4"/>
+<img src="https://img.shields.io/badge/DSA-020617?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-020617?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OPEN%20SOURCE-020617?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/HACKATHONS-020617?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/INTERNSHIPS-020617?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20PROJECTS-020617?style=for-the-badge"/>
+
+</div>
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/shaik-moulana-shareef">
-<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://moulanaaasifa.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="mailto:nawabsonu789@gmail.com">
-<img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/moulanashareef">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:nawabsonu789@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://moulanaaasifa.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-### ⚡ Build Something Useful. Learn Something New. Repeat. 🔁
+### ⚡ BUILD SOMETHING USEFUL.
 
-**Code • Learn • Build • Improve**
+### 🧠 LEARN SOMETHING NEW.
+
+### 🚀 REPEAT.
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:020617&height=150&section=footer&animation=fadeIn"/>
 
