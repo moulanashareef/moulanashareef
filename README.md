@@ -1,56 +1,50 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0f172a,70:2563eb,100:06b6d4&height=240&section=header&text=SHAIK%20MOULANA%20SHAREEF&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20B.Tech%20CSE%20Student&descAlignY=60&descSize=18"/>
-
 # 👋 Hi, I'm Shaik Moulana Shareef
 
-### 💻 Full Stack Developer &nbsp; • &nbsp; 🧠 DSA Enthusiast &nbsp; • &nbsp; 🎓 B.Tech CSE Student
-
-### `BUILD • LEARN • SOLVE • SHIP`
+### 💻 Full Stack Developer &nbsp;|&nbsp; 🧠 DSA Enthusiast &nbsp;|&nbsp; 🎓 B.Tech CSE Student
 
 <p>
-<i>Building useful applications, solving problems, and learning every day.</i>
+Building useful applications • Solving problems • Learning every day
 </p>
 
-<br>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=moulanashareef&label=Profile%20Views&color=2563EB&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/moulanashareef?label=Followers&style=for-the-badge&color=06B6D4" />
+  <img src="https://img.shields.io/github/stars/moulanashareef?label=Stars&style=for-the-badge&color=2563EB" />
+</p>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/moulanashareef">
-<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/PORTFOLIO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=moulanashareef&label=PROFILE%20VIEWS&color=06b6d4&style=for-the-badge"/>
+<p>
+  <a href="https://github.com/moulanashareef">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-# 🧑‍💻 About Me
+# 👨‍💻 About Me
 
-<div align="center">
-
-<table>
+<table width="100%">
 <tr>
-<td width="60%" valign="top">
 
-### 🚀 Who I Am
+<td width="55%" valign="top">
+
+## 🚀 Who I Am
 
 I'm a B.Tech Computer Science student passionate about building modern software and solving real-world problems.
 
-I focus on:
+### I focus on:
 
 - 💻 Full Stack Development
 - 🧠 Data Structures & Algorithms
@@ -68,413 +62,370 @@ I focus on:
 
 </td>
 
-<td width="40%" align="center">
+<td width="45%" valign="middle" align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,html,css,react,nextjs,nodejs,express,mongodb,postgresql,git,github,vscode,figma,postman" />
+## 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,react,nextjs,tailwind,nodejs,express,mongodb,postgres,git,github,vscode,figma,postman&perline=5" />
 
 </td>
+
 </tr>
 </table>
-
-</div>
 
 ---
 
 # 🛠️ Technology Stack
 
-<div align="center">
+<table width="100%">
+<tr>
+
+<td width="28%" valign="middle">
 
 ### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript"/>
+### 🌐 Frontend Development
 
-<br><br>
+### ⚙️ Backend Development
 
-### 🎨 Frontend
+### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
+### 🔧 Tools & Platforms
 
-<br><br>
+</td>
 
-### ⚙️ Backend
+<td width="72%" valign="middle" align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts" />
+</p>
 
-<br><br>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
 
-### 🗄️ Database
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql"/>
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+</p>
 
-<br><br>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+</p>
 
-### 🧰 Tools
+</td>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
-
-</div>
+</tr>
+</table>
 
 ---
 
 # 🚀 Featured Projects
 
-<div align="center">
-
-<table>
+<table width="100%">
 <tr>
 
 <td width="33%" valign="top">
 
-<h3>🎓 Nawab Sonu</h3>
+## 🎓 Nawab Sonu
 
-<p><b>AI Student Platform</b></p>
+AI-powered student platform focused on:
 
-<p>
-Education, careers, internships, scholarships, projects, AI learning and productivity in one platform.
-</p>
+- Education
+- Career guidance
+- Scholarships
+- Internships
+- AI Study Assistant
+- Learning
+- Projects
+- Productivity
 
-<p>
+**Stack**
 
-<img src="https://img.shields.io/badge/React-020617?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TypeScript-020617?style=flat-square&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/Node.js-020617?style=flat-square&logo=node.js&logoColor=68A063"/>
+`React` `TypeScript` `Node.js` `PostgreSQL`
 
-</p>
+<br>
 
 <a href="YOUR_NAWAB_SONU_REPOSITORY_URL">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_on_GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="33%" valign="top">
 
-<h3>🛒 E-Commerce</h3>
+## 🛒 E-Commerce App
 
-<p><b>Full Stack Shopping Platform</b></p>
+Full-stack e-commerce application with:
 
-<p>
-Product discovery, search, cart, authentication, orders and admin management.
-</p>
+- Product search
+- Shopping cart
+- Orders
+- Authentication
+- Admin panel
+- Product management
+- Database integration
 
-<p>
+**Stack**
 
-<img src="https://img.shields.io/badge/JavaScript-020617?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/Node.js-020617?style=flat-square&logo=node.js&logoColor=68A063"/>
-<img src="https://img.shields.io/badge/MongoDB-020617?style=flat-square&logo=mongodb&logoColor=47A248"/>
+`React` `Node.js` `Express` `MongoDB`
 
-</p>
+<br>
 
 <a href="YOUR_ECOMMERCE_REPOSITORY_URL">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_on_GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="33%" valign="top">
 
-<h3>🧠 DSA Practice</h3>
+## 🧠 DSA Practice
 
-<p><b>Problem Solving Repository</b></p>
+My journey of learning and implementing:
 
-<p>
-Data Structures and Algorithms practice using C++ and Python.
-</p>
+- Arrays
+- Strings
+- Linked Lists
+- Stacks
+- Queues
+- Trees
+- Graphs
+- Dynamic Programming
+- Searching
+- Sorting
 
-<p>
+**Language**
 
-<img src="https://img.shields.io/badge/C++-020617?style=flat-square&logo=cplusplus&logoColor=00599C"/>
-<img src="https://img.shields.io/badge/Python-020617?style=flat-square&logo=python&logoColor=3776AB"/>
+`C++`
 
-</p>
+<br>
 
 <a href="YOUR_DSA_REPOSITORY_URL">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" valign="top">
-
-<h3>🌐 Social Media Platform</h3>
-
-<p>
-Modern social platform with profiles, posts, likes, comments, messaging and notifications.
-</p>
-
-<a href="YOUR_SOCIAL_MEDIA_REPOSITORY_URL">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="33%" valign="top">
-
-<h3>📋 Project Management</h3>
-
-<p>
-Project, task, team, deadline and productivity management platform.
-</p>
-
-<a href="YOUR_PROJECT_MANAGEMENT_REPOSITORY_URL">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="33%" valign="top">
-
-<h3>💬 Real-Time Communication</h3>
-
-<p>
-Real-time messaging, group chats, online status, typing indicators and notifications.
-</p>
-
-<a href="YOUR_COMMUNICATION_APP_REPOSITORY_URL">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_on_GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 </tr>
 </table>
-
-</div>
 
 ---
 
 # 🔮 Future Projects
 
-<div align="center">
+<table width="100%">
+<tr>
 
-<table>
+<td width="33%" valign="top">
+
+### 👥 Social Media Platform
+
+Profiles, posts, messaging, notifications and real-time updates.
+
+</td>
+
+<td width="33%" valign="top">
+
+### 📋 Project Management Tool
+
+Tasks, teams, deadlines, productivity and collaboration.
+
+</td>
+
+<td width="33%" valign="top">
+
+### 💬 Real-Time Communication App
+
+One-to-one and group communication with real-time messaging.
+
+</td>
+
+</tr>
 
 <tr>
-<td width="50%">
+
+<td width="33%" valign="top">
 
 ### 🤖 AI Personal Assistant
 
-AI-powered productivity, planning and personal organization.
+A personalized AI assistant for productivity and everyday tasks.
+
+</td>
+
+<td width="33%" valign="top">
 
 ### 🎓 AI Learning & Career Platform
 
-Personalized learning paths, skill development and career discovery.
+AI-powered learning, career planning and skill development.
+
+</td>
+
+<td width="33%" valign="top">
 
 ### 💰 Personal Finance Manager
 
-Expense tracking, budgeting, savings and financial analytics.
+Track expenses, budgets, savings and financial goals.
 
 </td>
 
-<td width="50%">
-
-### 🏥 Smart Health & Fitness Platform
-
-Fitness goals, habits, activities and progress tracking.
-
-### 💼 Developer Job & Internship Platform
-
-Developer opportunities, applications and AI-powered matching.
-
-### 🌍 Community & Collaboration Platform
-
-A community for developers, projects, collaboration and knowledge sharing.
-
-</td>
 </tr>
 
 </table>
-
-</div>
 
 ---
 
 # 🧠 DSA Journey
 
-<div align="center">
-
-<table>
-
+<table width="100%">
 <tr>
-<th>Topic</th>
-<th>Progress</th>
-</tr>
 
-<tr>
-<td>Arrays</td>
-<td>████████████████████ 100%</td>
-</tr>
+<td width="50%" valign="top">
 
-<tr>
-<td>Strings</td>
-<td>██████████████████░░ 90%</td>
-</tr>
+### 📊 Areas I'm Practicing
 
-<tr>
-<td>Linked Lists</td>
-<td>████████████████░░░░ 80%</td>
-</tr>
+- Arrays
+- Strings
+- Linked Lists
+- Stacks & Queues
+- Trees
+- Graphs
+- Sorting
+- Searching
+- Recursion
+- Dynamic Programming
+- Problem Solving
 
-<tr>
-<td>Stacks & Queues</td>
-<td>███████████████░░░░░ 75%</td>
-</tr>
+</td>
 
-<tr>
-<td>Trees</td>
-<td>████████████░░░░░░░░ 60%</td>
-</tr>
+<td width="50%" valign="top">
 
-<tr>
-<td>Graphs</td>
-<td>██████████░░░░░░░░░░ 50%</td>
-</tr>
+### 🎯 DSA Goals
 
-<tr>
-<td>Dynamic Programming</td>
-<td>████████░░░░░░░░░░░░ 40%</td>
-</tr>
+- Solve problems consistently
+- Improve problem-solving speed
+- Strengthen C++ fundamentals
+- Master core data structures
+- Learn advanced algorithms
+- Prepare for technical interviews
 
+</td>
+
+</tr>
 </table>
-
-### `Consistency over perfection.`
-
-</div>
 
 ---
 
 # 📚 Currently Learning
 
-<div align="center">
+<p align="center">
 
-<img src="https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-020617?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=node.js&logoColor=68A063"/>
-<img src="https://img.shields.io/badge/Express.js-020617?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_APIs-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud-06B6D4?style=for-the-badge"/>
 
-<br>
-
-<img src="https://img.shields.io/badge/MongoDB-020617?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-<img src="https://img.shields.io/badge/PostgreSQL-020617?style=for-the-badge&logo=postgresql&logoColor=336791"/>
-<img src="https://img.shields.io/badge/WebSockets-020617?style=for-the-badge&logo=socket.io&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/AI-020617?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloud-020617?style=for-the-badge&logo=icloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Security-020617?style=for-the-badge&logo=securityscorecard&logoColor=white"/>
-
-</div>
+</p>
 
 ---
 
 # 🎯 Current Goals
 
-<div align="center">
-
-<table>
-
+<table width="100%">
 <tr>
-<td width="50%">
 
-🚀 Become a Strong Full Stack Developer
+<td width="50%" valign="top">
 
-<br><br>
-
-🧠 Improve DSA & Problem Solving
-
-<br><br>
-
-💻 Build Real-World Applications
-
-<br><br>
-
-🌐 Contribute to Open Source
+- ✅ Become a strong Full Stack Developer
+- ✅ Improve DSA & problem solving
+- 🚀 Build real-world applications
+- 🚀 Contribute to Open Source
+- 🏆 Participate in Hackathons
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-🏆 Participate in Hackathons
-
-<br><br>
-
-🤝 Collaborate With Developers
-
-<br><br>
-
-☁️ Learn Cloud & Deployment
-
-<br><br>
-
-🤖 Build AI-Powered Applications
+- 🤝 Collaborate with developers
+- 💻 Build production-ready projects
+- 📚 Maintain consistent GitHub activity
+- 🤖 Explore AI technologies
+- ☁️ Learn Cloud & Deployment
 
 </td>
+
 </tr>
-
 </table>
-
-</div>
 
 ---
 
 # 💡 What I Like Building
 
-<div align="center">
-
-<table>
-
+<table width="100%">
 <tr>
 
-<td align="center">
-🌐
-<br>
-<b>Web Applications</b>
+<td width="33%" align="center">
+
+### 🤖 AI Applications
+
+AI-powered tools and intelligent software.
+
 </td>
 
-<td align="center">
-🤖
-<br>
-<b>AI Products</b>
+<td width="33%" align="center">
+
+### 🌐 Web Applications
+
+Modern, scalable and responsive applications.
+
 </td>
 
-<td align="center">
-📱
-<br>
-<b>Real-Time Apps</b>
+<td width="33%" align="center">
+
+### 🎓 Student Platforms
+
+Education, career and productivity solutions.
+
 </td>
 
 </tr>
 
 <tr>
 
-<td align="center">
-🧠
-<br>
-<b>Problem Solving</b>
+<td width="33%" align="center">
+
+### 🛒 E-Commerce
+
+Real-world shopping and business applications.
+
 </td>
 
-<td align="center">
-🚀
-<br>
-<b>Developer Tools</b>
+<td width="33%" align="center">
+
+### 🧠 DSA
+
+Algorithms, problem solving and competitive programming.
+
 </td>
 
-<td align="center">
-📚
-<br>
-<b>Learning Platforms</b>
+<td width="33%" align="center">
+
+### 🚀 Developer Tools
+
+Tools that make developers more productive.
+
 </td>
 
 </tr>
-
 </table>
-
-</div>
 
 ---
 
@@ -482,11 +433,15 @@ A community for developers, projects, collaboration and knowledge sharing.
 
 <div align="center">
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=moulanashareef&show_icons=true&hide_border=true&bg_color=020617&title_color=06b6d4&icon_color=2563eb&text_color=ffffff&count_private=true"/>
+<img
+src="https://github-readme-stats.vercel.app/api?username=moulanashareef&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=06B6D4&icon_color=2563EB&text_color=FFFFFF"
+height="180"
+/>
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=moulanashareef&layout=compact&hide_border=true&bg_color=020617&title_color=06b6d4&text_color=ffffff"/>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=moulanashareef&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=06B6D4&text_color=FFFFFF"
+height="180"
+/>
 
 </div>
 
@@ -497,22 +452,25 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=moulanashare
 <div align="center">
 
 <img
-src="https://streak-stats.demolab.com?user=moulanashareef&background=020617&border=2563eb&stroke=2563eb&ring=06b6d4&fire=06b6d4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=06b6d4&sideLabels=ffffff&dates=94a3b8"
-alt="GitHub Streak"
+src="https://streak-stats.demolab.com?user=moulanashareef&theme=tokyonight&hide_border=true&background=020617&ring=06B6D4&fire=2563EB&currStreakLabel=06B6D4"
+width="80%"
 />
 
 </div>
 
 ---
- ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=moulanashareef&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"
-    alt="GitHub Trophies"
-    width="100%"
-  />
-</p>
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=moulanashareef&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"
+alt="GitHub Trophies"
+width="100%"
+/>
+
+</div>
 
 ---
 
@@ -522,7 +480,8 @@ alt="GitHub Streak"
 
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=moulanashareef&bg_color=020617&color=06b6d4&line=2563eb&point=ffffff&area=true&hide_border=true"
-alt="GitHub Contribution Graph"
+alt="GitHub Contribution Activity"
+width="100%"
 />
 
 </div>
@@ -533,18 +492,17 @@ alt="GitHub Contribution Graph"
 
 <div align="center">
 
-I'm open to opportunities where I can
-<b>learn, contribute, collaborate and build meaningful real-world products.</b>
+I'm open to opportunities where I can **learn, contribute, collaborate and build meaningful real-world products.**
 
-<br><br>
+<br>
 
-<img src="https://img.shields.io/badge/FULL%20STACK-020617?style=for-the-badge&logoColor=06b6d4"/>
-<img src="https://img.shields.io/badge/DSA-020617?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-020617?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OPEN%20SOURCE-020617?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/HACKATHONS-020617?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/INTERNSHIPS-020617?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20PROJECTS-020617?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full_Stack_Development-020617?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA_&_Problem_Solving-020617?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web_Development-020617?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open_Source-020617?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hackathons-020617?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Internships-020617?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Projects-020617?style=for-the-badge"/>
 
 </div>
 
@@ -554,20 +512,20 @@ I'm open to opportunities where I can
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/shaik-moulana-shareef">
-<img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 <a href="https://github.com/moulanashareef">
-<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-moulanashareef-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:nawabsonu789@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/shaik-moulana-shareef">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://moulanaaasifa.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="mailto:nawabsonu@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-E11D48?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -576,14 +534,14 @@ I'm open to opportunities where I can
 
 <div align="center">
 
-### ⚡ BUILD SOMETHING USEFUL.
+### 🚀 BUILD SOMETHING USEFUL
 
-### 🧠 LEARN SOMETHING NEW.
+### 📚 LEARN SOMETHING NEW
 
-### 🚀 REPEAT.
+### 🔁 REPEAT
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:020617&height=150&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:2563EB,100:06B6D4&height=120&section=footer"/>
 
 </div>
