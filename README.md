@@ -14,7 +14,7 @@
 
 <br>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/shaik-moulana-shareef">
 <img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -22,11 +22,11 @@
 <img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:nawabsonu789@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://moulanaaasifa.vercel.app/">
 <img src="https://img.shields.io/badge/PORTFOLIO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
@@ -549,16 +549,21 @@ I'm open to opportunities where I can
 </div>
 
 ---
-
 <div align="center">
 
 ### ⚡ BUILD SOMETHING USEFUL.
 
 ### 🧠 LEARN SOMETHING NEW.
 
-### 🚀 REPEAT.
+### 💻 SOLVE REAL PROBLEMS.
+
+### 🚀 BUILD. BREAK. FIX. REPEAT.
 
 <br>
+
+<sub>Full Stack • C++ • DSA • AI • Open Source</sub>
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:020617&height=150&section=footer&animation=fadeIn"/>
 
