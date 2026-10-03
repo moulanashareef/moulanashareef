@@ -549,6 +549,7 @@ I'm open to opportunities where I can
 </div>
 
 ---
+
 <div align="center">
 
 ### ⚡ BUILD SOMETHING USEFUL.
