@@ -505,32 +505,6 @@ alt="GitHub Streak"
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=moulanashareef&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"
-alt="GitHub Trophies"
-/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=moulanashareef&bg_color=020617&color=06b6d4&line=2563eb&point=ffffff&area=true&hide_border=true"
-alt="GitHub Contribution Graph"
-/>
-
-</div>
-
----
-
 # 💼 Open to Opportunities
 
 <div align="center">
