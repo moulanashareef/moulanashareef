@@ -566,6 +566,10 @@ I'm open to opportunities where I can
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:020617&height=150&section=footer&animation=fadeIn"/>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:020617&height=200&section=footer&text=THANK%20YOU%20FOR%20VISITING&fontSize=28&fontColor=ffffff&fontAlignY=65&animation=fadeIn"
+width="100%"
+/>
+
 
 </div>
